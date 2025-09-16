@@ -12,4 +12,4 @@ int main() {
     // Please write your code here.
     printf("%d", fun(n));
     return 0;
-}''
+}
